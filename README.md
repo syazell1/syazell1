@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m bry<br>👀 I’m a Fullstack Software Engineer<br>📫 How to reach me? Contact me at mafty.erin01@gmail.com
+👋 Hi, I’m bry<br>👀 I’m a Fullstack Software Engineer<br>📫 How to reach me? Contact me at bryanjimavila@gmail.com
 
 
 
